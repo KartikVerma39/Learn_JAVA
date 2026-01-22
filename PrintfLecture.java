@@ -3,8 +3,8 @@ public class PrintfLecture {
         String name = "SpongeBob";
         char firstLetter = 'S';
         int age = 30;
-        double height = 60.5;
-        boolean isEmployed = true;
+        // double height = 60.5;
+        // boolean isEmployed = true;
 
         // System.out.printf("Hello %s\n", name);
         // System.out.printf("Your name starts with %c\n", firstLetter);

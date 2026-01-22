@@ -1,8 +1,8 @@
-import java.util.Random;
+// import java.util.Random;
 public class randomNumbers {
     public static void main(String[] args){
 
-        Random random = new Random();
+        // Random random = new Random();
         
         // int number1;
         // int number2;
