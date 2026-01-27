@@ -1,4 +1,4 @@
-package oops;
+package src;
 
 public class StaticKeyWord {
     public static void main(String[] args){

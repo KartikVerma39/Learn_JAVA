@@ -1,4 +1,4 @@
-package oops;
+package src;
 
 public class Mobile {
     String brand;
